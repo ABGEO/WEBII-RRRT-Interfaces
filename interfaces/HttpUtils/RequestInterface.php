@@ -8,8 +8,8 @@
  * @category Interface
  * @package  RRRT\Interfaces\HttpUtils
  * @author   Temuri Takalandze <takalandzet@gmail.com>
- * @license  https://opensource.org/licenses/MIT MIT
- * @link     null
+ * @license  https://github.com/ABGEO07/-WEBII-RRRT-Interfaces/blob/master/LICENSE MIT License
+ * @link     https://github.com/ABGEO07/WEBII-RRRT-Interfaces
  */
 
 namespace RRRT\Interfaces\HttpUtils;
@@ -20,8 +20,8 @@ namespace RRRT\Interfaces\HttpUtils;
  * @category Interface
  * @package  RRRT\Interfaces\HttpUtils
  * @author   Temuri Takalandze <takalandzet@gmail.com>
- * @license  https://opensource.org/licenses/MIT MIT
- * @link     null
+ * @license  https://github.com/ABGEO07/-WEBII-RRRT-Interfaces/blob/master/LICENSE MIT License
+ * @link     https://github.com/ABGEO07/WEBII-RRRT-Interfaces
  */
 interface RequestInterface
 {
