@@ -1,7 +1,8 @@
 <?php
 
 /**
- * This file interface form RRRT (Request, Response, Router, Templater) Request wrapper
+ * This file interface form RRRT (Request, Response, Router, Templater)
+ * Request wrapper
  *
  * PHP version 5
  *
