@@ -1,9 +1,10 @@
 <?php
+
 /**
  * This file interface form RRRT (Request, Response, Router, Templater)
  * Templater Wrapper
  *
- * PHP version 7.2
+ * PHP version 5
  *
  * @category Interface
  * @package  RRRT\Interfaces\Router
